@@ -32,6 +32,17 @@ By default, slither bot....
 * In order to run the program, "gui.py" should be run
 * Will wait for the drop if it is not 11:00:00 am EST time.
 
+### UI ###
+**main UI**
+![alt text](https://github.com/Beaninator/Slither-Bot/blob/main/images/main-ui.png "UI-Main")
+![alt text](https://github.com/Beaninator/Slither-Bot/blob/main/images/task-populated.png "UI-Populated")
+
+**user creation UI**
+![alt text](https://github.com/Beaninator/Slither-Bot/blob/main/images/user-create.png "user-Main")
+
+**item creation UI**
+![alt text](https://github.com/Beaninator/Slither-Bot/blob/main/images/item-create.png "item-Main")
+
 
 
 
